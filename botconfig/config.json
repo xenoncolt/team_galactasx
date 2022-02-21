@@ -1,0 +1,26 @@
+{
+   "token": "ODI2MzIyMjc2ODczMTQyMjgz.YGKylw.wzhB4b3CY2fhf_FwwxuFoEsP9hY",
+   "prefix": ">",
+   "ownerIDS": [
+      "709210314230726776"
+   ],
+   "status": {
+      "text": "{prefix}help | {membercount} users played {songsplayed} Songs on {guildcount} Guilds",
+      "text2": "No event",
+      "type": "PLAYING",
+      "url": "https://twitch.tv/xenoncolt"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "lava.link",
+            "port": 80,
+            "password": "anything as password"
+         }
+      ]
+   },
+   "spotify": {
+      "clientID": "754ca453dc774aa5a45e4a1d1a03e847",
+      "clientSecret": "74538ba2d4f14c25a9769256155a9974"
+   }
+}
